@@ -1,0 +1,22 @@
+body {
+	background: url(images/background.jpg)
+}
+
+.msg {
+	border-top: 1px solid #ccc;
+	padding: 10px 0;
+}
+
+.msg p {
+	margin: 0.5px;
+}
+
+.msg .day,
+.msg .day a {
+	font-size: 85%;
+	color: #999;
+}
+
+.error{
+	color: Red;
+}
